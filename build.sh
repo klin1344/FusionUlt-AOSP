@@ -1,7 +1,7 @@
-CROSS_COMPILE=/home/klin1344/build/cm10.1/prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/arm-eabi-
+CROSS_COMPILE=/home/klin1344/cm10.1/prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/arm-eabi-
 INITRAMFS_DIR=ramdisk.gz
-KERNEL_NAME=FusionUltimate-AOSP
-KERNEL_VNUMBER=4.1
+KERNEL_NAME=FusionUlt-AOSP
+KERNEL_VNUMBER=4.1_test
 
 # DO NOT MODIFY BELOW THIS LINE
 CURRENT_DIR=`pwd`
